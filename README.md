@@ -1,24 +1,36 @@
 # Hi, I'm Neeraj! 👋
 
-### ☁️ Aspiring Cloud & DevOps Engineer
-I specialize in automating cloud infrastructure and building serverless backend systems.
+☁️ **Cloud & DevOps Engineer** I specialize in building **Serverless Cloud Architectures** and automating infrastructure to solve real-world data problems.
 
 ---
 
 ### 🛠️ Technical Skills
-- **Cloud:** AWS (Lambda, S3, API Gateway, IAM)
-- **IaC:** Terraform
-- **Languages:** Python (Boto3)
-- **DevOps:** Git, GitHub, Repository Optimization
 
-### 🚀 Featured Project
-**[Serverless AWS Microservice API](https://github.com/neerajkuppala/Serverless-AWS-Microservice-API)**
-- Automated a full AWS backend using Terraform.
-- Developed serverless logic using Python Lambda functions.
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
+---
+
+### 🚀 Featured Project: Serverless AI Text Summarizer & Archiver
+
+**[Live Demo](https://main.d2g1xi29ugsf8y.amplifyapp.com/) | [View Source Code](https://github.com/neerajkuppala/Serverless-AI-Cloud-Pipeline)**
+
+* **Full-Stack Serverless:** Built a complete data pipeline from a JavaScript frontend to a Python backend.
+* **Database Integration:** Implemented persistent storage using **Amazon DynamoDB** with optimized Partition Key schemas (`UserId`).
+* **API Management:** Engineered a RESTful API via **Amazon API Gateway**, handling custom CORS configurations for secure requests.
+* **Automated Deployment:** Leveraged **AWS Amplify** for continuous deployment and hosting.
+
+---
+
+### 📊 My GitHub Journey
+* 🚀 Exploring Infrastructure as Code (IaC) with Terraform.
+* 🛡️ Implementing Least Privilege security using AWS IAM.
+* 🐍 Developing AWS automation scripts using Boto3.
+
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/neeraj-kuppala-75b3972a6)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neerajkuppala@gmail.com)
-
----
+[LinkedIn](linkedin.com/in/neeraj-kuppala-75b3972a6) | [Email](neerajkuppala@gmail.com)
