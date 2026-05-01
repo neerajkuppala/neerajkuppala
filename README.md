@@ -59,12 +59,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Neeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neerajkuppala&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajkuppala&layout=compact&theme=tokyonight)
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeraj-kuppala-75b3972a6/)
